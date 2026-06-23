@@ -21,7 +21,7 @@ def clean_text(text):
 
 if __name__ == "__main__":
     # Test the clean_text function
-    sample_text = "Dear Customer, your Chase Bank account has been suspended! Click here: http://192.168.5.23/login.php."
+    sample_text = "Deyour Chase Bank aar Customer, ccount has been suspended! Click here: http://192.168.5.23/login.php."
     print("Original text:")
     print(sample_text)
     print("\nCleaned text:")
